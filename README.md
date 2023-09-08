@@ -51,9 +51,9 @@ Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests to improve the project.
 
 Authors
-Your Name - Your Website
+Anshuman Singh
 Support
-For support or questions, please create an issue or reach out to [your@email.com].
+For support or questions, please create an issue or reach out to [findmeansh@email.com].
 
 Disclaimer
 This calculator is provided as-is and should be used for basic arithmetic calculations. It does not guarantee absolute precision and may not be suitable for complex mathematical tasks.
